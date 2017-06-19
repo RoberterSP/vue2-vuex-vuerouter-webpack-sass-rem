@@ -2,7 +2,9 @@
 
 > A demo for vue2.0+vuex+webpack+sass+rem.
 
-## 喜欢的话帮忙点个star哦。
+## 喜欢的话帮忙点个star哦，谢啦。
+
+> Click the star if you like it,thks.
 
 ## 安装和运行方法
 
