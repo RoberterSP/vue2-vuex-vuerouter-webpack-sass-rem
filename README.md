@@ -1,4 +1,4 @@
-# 基于 vue2.0+vuex+webpack+sass+rem 的脚手架
+# 一个基于vue2-vuex-vuerouter-webpack-sass-rem的脚手架
 
 > A demo for vue2.0+vuex+webpack+sass+rem.
 
